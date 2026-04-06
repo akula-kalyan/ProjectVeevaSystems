@@ -1,0 +1,10 @@
+pages\AmazonHomePage.class
+pages\ProductPage.class
+pages\CartPage.class
+pages\CategoryPage.class
+utils\WaitUtil.class
+pages\MenuPage.class
+utils\ConfigReader.class
+pages\AmazonSearchResultsPage.class
+utils\ScreenshotUtil.class
+factory\DriverFactory.class

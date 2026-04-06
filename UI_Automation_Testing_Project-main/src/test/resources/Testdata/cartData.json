@@ -1,0 +1,25 @@
+{
+  "tests": [
+    {
+      "testName": "Add Toy Product To Cart",
+      "category": "Toys",
+      "productKeyword": "Kidsmate",
+      "priceSymbol": "₹",
+      "expectedCartCount": 1
+    },
+    {
+      "testName": "Add iPhone Product To Cart",
+      "category": "Electronics",
+      "productKeyword": "Apple",
+      "priceSymbol": "₹",
+      "expectedCartCount": 1
+    },
+    {
+      "cartValidation": {
+        "productKeyword": "Kidsmate",
+        "price": "1399",
+        "expectedCartCount": 1
+      }
+    }
+  ]
+}
