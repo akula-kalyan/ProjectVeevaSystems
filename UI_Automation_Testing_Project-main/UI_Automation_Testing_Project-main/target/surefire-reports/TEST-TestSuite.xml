@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="112.293" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="22"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\K Aditya\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\K Aditya\IdeaProjects\WalmartUiAutomation\target\test-classes;C:\Users\K Aditya\IdeaProjects\WalmartUiAutomation\target\classes;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-java\4.41.0\selenium-java-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-api\4.41.0\selenium-api-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.41.0\selenium-chrome-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.41.0\selenium-chromium-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-json\4.41.0\selenium-json-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.41.0\selenium-manager-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v143\4.41.0\selenium-devtools-v143-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v144\4.41.0\selenium-devtools-v144-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v145\4.41.0\selenium-devtools-v145-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.41.0\selenium-edge-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.41.0\selenium-firefox-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-http\4.41.0\selenium-http-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.41.0\selenium-ie-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.41.0\selenium-remote-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\K Aditya\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\K Aditya\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\K Aditya\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-api\1.59.0\opentelemetry-api-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-context\1.59.0\opentelemetry-context-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-common\1.59.0\opentelemetry-common-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.59.0\opentelemetry-exporter-logging-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.59.0\opentelemetry-sdk-common-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.59.0\opentelemetry-sdk-extension-autoconfigure-spi-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.59.0\opentelemetry-sdk-extension-autoconfigure-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.59.0\opentelemetry-sdk-trace-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.59.0\opentelemetry-sdk-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.59.0\opentelemetry-sdk-metrics-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.59.0\opentelemetry-sdk-logs-1.59.0.jar;C:\Users\K Aditya\.m2\repository\net\bytebuddy\byte-buddy\1.18.5\byte-buddy-1.18.5.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-os\4.41.0\selenium-os-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.41.0\selenium-safari-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-support\4.41.0\selenium-support-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\K Aditya\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\K Aditya\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\K Aditya\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-java\7.34.3\cucumber-java-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-core\7.34.3\cucumber-core-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-gherkin\7.34.3\cucumber-gherkin-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.34.3\cucumber-gherkin-messages-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\gherkin\36.1.0\gherkin-36.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\messages\30.1.0\messages-30.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\messages-ndjson\0.3.2\messages-ndjson-0.3.2.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\pretty-formatter\2.4.1\pretty-formatter-2.4.1.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\query\14.7.0\query-14.7.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\teamcity-formatter\0.2.0\teamcity-formatter-0.2.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\testng-xml-formatter\0.7.0\testng-xml-formatter-0.7.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\usage-formatter\0.1.0\usage-formatter-0.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\tag-expressions\8.1.0\tag-expressions-8.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-expressions\18.1.0\cucumber-expressions-18.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-json-formatter\0.3.2\cucumber-json-formatter-0.3.2.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\datatable\7.34.3\datatable-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-plugin\7.34.3\cucumber-plugin-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\docstring\7.34.3\docstring-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\html-formatter\22.3.0\html-formatter-22.3.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\junit-xml-formatter\0.11.0\junit-xml-formatter-0.11.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\ci-environment\12.0.0\ci-environment-12.0.0.jar;C:\Users\K Aditya\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-testng\7.34.3\cucumber-testng-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\github\bonigarcia\webdrivermanager\6.3.3\webdrivermanager-6.3.3.jar;C:\Users\K Aditya\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar;C:\Users\K Aditya\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java\3.6.0\docker-java-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-core\3.6.0\docker-java-core-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-api\3.6.0\docker-java-api-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.2\jackson-annotations-2.19.2.jar;C:\Users\K Aditya\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.2\jackson-databind-2.19.2.jar;C:\Users\K Aditya\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.2\jackson-core-2.19.2.jar;C:\Users\K Aditya\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.6.0\docker-java-transport-httpclient5-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-transport\3.6.0\docker-java-transport-3.6.0.jar;C:\Users\K Aditya\.m2\repository\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar;C:\Users\K Aditya\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\K Aditya\.m2\repository\org\apache\commons\commons-lang3\3.19.0\commons-lang3-3.19.0.jar;C:\Users\K Aditya\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\K Aditya\.m2\repository\commons-codec\commons-codec\1.19.0\commons-codec-1.19.0.jar;C:\Users\K Aditya\.m2\repository\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;C:\Users\K Aditya\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.4.3\httpclient5-5.4.3.jar;C:\Users\K Aditya\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.3.4\httpcore5-5.3.4.jar;C:\Users\K Aditya\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.3.4\httpcore5-h2-5.3.4.jar;C:\Users\K Aditya\.m2\repository\org\apache\logging\log4j\log4j-api\2.25.4\log4j-api-2.25.4.jar;C:\Users\K Aditya\.m2\repository\org\apache\logging\log4j\log4j-core\2.25.4\log4j-core-2.25.4.jar;C:\Users\K Aditya\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\K Aditya\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\K Aditya\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\K Aditya\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\K Aditya\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\K Aditya\.m2\repository\org\json\json\20251224\json-20251224.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="22"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
+    <property name="sun.java.command" value="C:\Users\K Aditya\AppData\Local\Temp\surefire11389572873555975285\surefirebooter-20260413115633907_3.jar C:\Users\K Aditya\AppData\Local\Temp\surefire11389572873555975285 2026-04-13T11-56-33_752-jvmRun1 surefire-20260413115633907_1tmp surefire_0-20260413115633907_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\K Aditya\IdeaProjects\WalmartUiAutomation\target\test-classes;C:\Users\K Aditya\IdeaProjects\WalmartUiAutomation\target\classes;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-java\4.41.0\selenium-java-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-api\4.41.0\selenium-api-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.41.0\selenium-chrome-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.41.0\selenium-chromium-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-json\4.41.0\selenium-json-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.41.0\selenium-manager-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v143\4.41.0\selenium-devtools-v143-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v144\4.41.0\selenium-devtools-v144-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v145\4.41.0\selenium-devtools-v145-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.41.0\selenium-edge-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.41.0\selenium-firefox-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-http\4.41.0\selenium-http-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.41.0\selenium-ie-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.41.0\selenium-remote-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\K Aditya\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\K Aditya\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\K Aditya\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-api\1.59.0\opentelemetry-api-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-context\1.59.0\opentelemetry-context-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-common\1.59.0\opentelemetry-common-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.59.0\opentelemetry-exporter-logging-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.59.0\opentelemetry-sdk-common-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.59.0\opentelemetry-sdk-extension-autoconfigure-spi-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.59.0\opentelemetry-sdk-extension-autoconfigure-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.59.0\opentelemetry-sdk-trace-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.59.0\opentelemetry-sdk-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.59.0\opentelemetry-sdk-metrics-1.59.0.jar;C:\Users\K Aditya\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.59.0\opentelemetry-sdk-logs-1.59.0.jar;C:\Users\K Aditya\.m2\repository\net\bytebuddy\byte-buddy\1.18.5\byte-buddy-1.18.5.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-os\4.41.0\selenium-os-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.41.0\selenium-safari-driver-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\seleniumhq\selenium\selenium-support\4.41.0\selenium-support-4.41.0.jar;C:\Users\K Aditya\.m2\repository\org\testng\testng\7.12.0\testng-7.12.0.jar;C:\Users\K Aditya\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\K Aditya\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\K Aditya\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-java\7.34.3\cucumber-java-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-core\7.34.3\cucumber-core-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-gherkin\7.34.3\cucumber-gherkin-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.34.3\cucumber-gherkin-messages-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\gherkin\36.1.0\gherkin-36.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\messages\30.1.0\messages-30.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\messages-ndjson\0.3.2\messages-ndjson-0.3.2.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\pretty-formatter\2.4.1\pretty-formatter-2.4.1.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\query\14.7.0\query-14.7.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\teamcity-formatter\0.2.0\teamcity-formatter-0.2.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\testng-xml-formatter\0.7.0\testng-xml-formatter-0.7.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\usage-formatter\0.1.0\usage-formatter-0.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\tag-expressions\8.1.0\tag-expressions-8.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-expressions\18.1.0\cucumber-expressions-18.1.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-json-formatter\0.3.2\cucumber-json-formatter-0.3.2.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\datatable\7.34.3\datatable-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-plugin\7.34.3\cucumber-plugin-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\docstring\7.34.3\docstring-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\html-formatter\22.3.0\html-formatter-22.3.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\junit-xml-formatter\0.11.0\junit-xml-formatter-0.11.0.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\ci-environment\12.0.0\ci-environment-12.0.0.jar;C:\Users\K Aditya\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\K Aditya\.m2\repository\io\cucumber\cucumber-testng\7.34.3\cucumber-testng-7.34.3.jar;C:\Users\K Aditya\.m2\repository\io\github\bonigarcia\webdrivermanager\6.3.3\webdrivermanager-6.3.3.jar;C:\Users\K Aditya\.m2\repository\com\google\code\gson\gson\2.13.2\gson-2.13.2.jar;C:\Users\K Aditya\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java\3.6.0\docker-java-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-core\3.6.0\docker-java-core-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-api\3.6.0\docker-java-api-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.2\jackson-annotations-2.19.2.jar;C:\Users\K Aditya\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.2\jackson-databind-2.19.2.jar;C:\Users\K Aditya\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.2\jackson-core-2.19.2.jar;C:\Users\K Aditya\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.6.0\docker-java-transport-httpclient5-3.6.0.jar;C:\Users\K Aditya\.m2\repository\com\github\docker-java\docker-java-transport\3.6.0\docker-java-transport-3.6.0.jar;C:\Users\K Aditya\.m2\repository\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar;C:\Users\K Aditya\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\K Aditya\.m2\repository\org\apache\commons\commons-lang3\3.19.0\commons-lang3-3.19.0.jar;C:\Users\K Aditya\.m2\repository\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;C:\Users\K Aditya\.m2\repository\commons-codec\commons-codec\1.19.0\commons-codec-1.19.0.jar;C:\Users\K Aditya\.m2\repository\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;C:\Users\K Aditya\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.4.3\httpclient5-5.4.3.jar;C:\Users\K Aditya\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.3.4\httpcore5-5.3.4.jar;C:\Users\K Aditya\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.3.4\httpcore5-h2-5.3.4.jar;C:\Users\K Aditya\.m2\repository\org\apache\logging\log4j\log4j-api\2.25.4\log4j-api-2.25.4.jar;C:\Users\K Aditya\.m2\repository\org\apache\logging\log4j\log4j-core\2.25.4\log4j-core-2.25.4.jar;C:\Users\K Aditya\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\K Aditya\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\K Aditya\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\K Aditya\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\K Aditya\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\K Aditya\.m2\repository\org\json\json\20251224\json-20251224.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\K Aditya"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-03-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-22"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\K Aditya\IdeaProjects\WalmartUiAutomation"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\K Aditya\AppData\Local\Temp\surefire11389572873555975285\surefirebooter-20260413115633907_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="22+36-2370"/>
+    <property name="user.name" value="K Aditya"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\K Aditya\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\KADITY~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="22"/>
+    <property name="user.dir" value="C:\Users\K Aditya\IdeaProjects\WalmartUiAutomation"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-22\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 8.1\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\maven\apache-maven-3.9.12\bin;C:\Users\K Aditya\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\K Aditya\AppData\Local\Programs\Python\Python38\;C:\Users\K Aditya\AppData\Local\Microsoft\WindowsApps;C:\Users\K Aditya\Downloads\mingw-18.0-without-git.exe;C:\Users\K Aditya\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\K Aditya\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.2\bin;C:\Users\K Aditya\AppData\Local\Python\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="22+36-2370"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="66.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;Add product to cart from Toys category&quot;, &quot;Amazon Add to Cart Functionality&quot;](1)" classname="runners.TestRunner" time="76.979">
+    <system-out><![CDATA[
+Scenario Outline: Search product using multiple data  # src/test/resources/features/msearch.feature:12
+
+Scenario: Add product to cart from Toys category   # src/test/resources/features/add_to_cart.feature:2
+11:56:36 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+11:56:36 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+Launching browser: chrome
+Launching browser: chrome
+11:57:04 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+11:57:04 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+  ✔ Given user is on Amazon homepage               # stepdefinitions.AmazonCartSteps.openAmazon()
+11:57:04 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+11:57:05 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+11:57:05 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+  ✔ Given user opens Amazon homepage                  # stepdefinitions.AmazonSearchSteps.openAmazon()
+11:57:05 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+  ✔ When user navigates to Toys category from menu # stepdefinitions.AmazonCartSteps.navigateMenu()
+11:57:30 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+  ✔ And user selects a product from category page  # stepdefinitions.AmazonCartSteps.selectProduct()
+11:57:44 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+11:57:44 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Wembley Hover Football for Kids| Electric Soccer Ball Floating Air| Engaging Indoor Game for Kids | Birthday Gift for Boys| Advanced & Rechargeable Hover Ball Game (Blue)
+11:57:44 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 499
+  ✔ And user switches to product tab               # stepdefinitions.AmazonCartSteps.switchTab()
+  ✔ Then product page should be displayed          # stepdefinitions.AmazonCartSteps.validateProductPage()
+  ✔ When user enters "iPhone" in search bar           # stepdefinitions.AmazonSearchSteps.enterSearch(java.lang.String)
+11:57:47 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+  ✔ When user adds product to cart                 # stepdefinitions.AmazonCartSteps.addCart()
+  ✔ And user navigates to cart page                # stepdefinitions.AmazonCartSteps.openCart()
+11:57:49 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+Expected Name: Wembley Hover Football for Kids| Electric Soccer Ball Floating Air| Engaging Indoor Game for Kids | Birthday Gift for Boys| Advanced & Rechargeable Hover Ball Game (Blue)
+Actual Name: Wembley Hover Football for Kids| Electric Soccer Ball Floating Air| Engaging Indoor Game for Kids | Birthday Gift for Boys| Advanced & Rechargeable Hover Ball Game (Bl…
+Expected Price: 499
+Actual Price: 499
+Expected (30 chars): wembley hover football for kid
+Actual (30 chars): wembley hover football for kid
+  ✔ Then product should be added to cart           # stepdefinitions.AmazonCartSteps.validateProductAdded()
+11:57:50 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+  ✔ And subtotal should be displayed               # stepdefinitions.AmazonCartSteps.validateSubtotal()
+11:57:50 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+  ✔ And cart count should be updated               # stepdefinitions.AmazonCartSteps.validateCartCount()
+11:57:51 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+  ✔ And user clicks on first suggestion               # stepdefinitions.AmazonSearchSteps.clickFirstSuggestion()
+11:57:51 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+11:57:51 INFO  hooks.Hooks - Browser closed | Thread: 33
+11:57:51 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+  ✔ Then results page should be displayed             # stepdefinitions.AmazonSearchSteps.verifyResultsPage()
+11:57:52 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+  ✔ And results should be relevant to entered product # stepdefinitions.AmazonSearchSteps.validateResults()
+11:57:52 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+Apr 13, 2026 11:57:01 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 146, returning the closest version; found: 145; Please update to a Selenium version that supports CDP version 146
+Apr 13, 2026 11:57:01 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 146, returning the closest version; found: 145; Please update to a Selenium version that supports CDP version 146
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Search product using multiple data&quot;, &quot;Amazon Search Functionality&quot;](2)" classname="runners.TestRunner" time="0.354">
+    <system-out><![CDATA[
+Scenario Outline: Search product using multiple data  # src/test/resources/features/msearch.feature:13
+11:57:52 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+Launching browser: chrome
+11:57:53 INFO  hooks.Hooks - Browser closed | Thread: 34
+11:57:53 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Search product using multiple data&quot;, &quot;Amazon Search Functionality&quot;](3)" classname="runners.TestRunner" time="19.876">
+    <system-out><![CDATA[
+Scenario Outline: Search product using multiple data  # src/test/resources/features/msearch.feature:14
+11:57:53 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+Launching browser: chrome
+11:57:56 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+11:57:56 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+  ✔ Given user opens Amazon homepage                  # stepdefinitions.AmazonSearchSteps.openAmazon()
+11:57:56 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Laptop
+11:57:59 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+11:57:59 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+  ✔ Given user opens Amazon homepage                  # stepdefinitions.AmazonSearchSteps.openAmazon()
+11:57:59 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Samsung
+  ✔ When user enters "Laptop" in search bar           # stepdefinitions.AmazonSearchSteps.enterSearch(java.lang.String)
+11:58:05 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+  ✔ When user enters "Samsung" in search bar          # stepdefinitions.AmazonSearchSteps.enterSearch(java.lang.String)
+11:58:06 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+  ✔ And user clicks on first suggestion               # stepdefinitions.AmazonSearchSteps.clickFirstSuggestion()
+11:58:11 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+  ✔ Then results page should be displayed             # stepdefinitions.AmazonSearchSteps.verifyResultsPage()
+11:58:11 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Laptop
+  ✔ And results should be relevant to entered product # stepdefinitions.AmazonSearchSteps.validateResults()
+11:58:12 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+11:58:12 INFO  hooks.Hooks - Browser closed | Thread: 34
+11:58:12 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+  ✔ And user clicks on first suggestion               # stepdefinitions.AmazonSearchSteps.clickFirstSuggestion()
+11:58:12 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+]]></system-out>
+    <system-err><![CDATA[Apr 13, 2026 11:57:56 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 146, returning the closest version; found: 145; Please update to a Selenium version that supports CDP version 146
+Apr 13, 2026 11:57:56 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 146, returning the closest version; found: 145; Please update to a Selenium version that supports CDP version 146
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Search product using multiple data&quot;, &quot;Amazon Search Functionality&quot;](4)" classname="runners.TestRunner" time="1.168">
+    <system-out><![CDATA[
+Scenario: Search product using JSON data              # src/test/resources/features/search.feature:3
+11:58:13 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+Launching browser: chrome
+  ✔ Then results page should be displayed             # stepdefinitions.AmazonSearchSteps.verifyResultsPage()
+11:58:13 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Samsung
+  ✔ And results should be relevant to entered product # stepdefinitions.AmazonSearchSteps.validateResults()
+11:58:13 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+11:58:14 INFO  hooks.Hooks - Browser closed | Thread: 33
+11:58:14 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Search product using JSON data&quot;, &quot;Amazon Search Functionality&quot;](5)" classname="runners.TestRunner" time="12.134">
+    <system-out><![CDATA[11:58:16 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+11:58:16 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+  ✔ Given user opens Amazon homepage                  # stepdefinitions.AmazonSearchSteps.openAmazon()
+11:58:17 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+  ✔ When user enters product from json                # stepdefinitions.AmazonSearchSteps.enterSearch()
+11:58:20 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+  ✔ And user clicks on first suggestion               # stepdefinitions.AmazonSearchSteps.clickFirstSuggestion()
+11:58:24 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+  ✔ Then results page should be displayed             # stepdefinitions.AmazonSearchSteps.verifyResultsPage()
+11:58:24 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+  ✔ And results should be relevant to entered product # stepdefinitions.AmazonSearchSteps.validateResults()
+11:58:24 INFO  hooks.Hooks - TEST PASSED: Search product using JSON data
+11:58:25 INFO  hooks.Hooks - Browser closed | Thread: 34
+11:58:25 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+]]></system-out>
+    <system-err><![CDATA[Apr 13, 2026 11:58:15 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 146, returning the closest version; found: 145; Please update to a Selenium version that supports CDP version 146
+]]></system-err>
+  </testcase>
+</testsuite>

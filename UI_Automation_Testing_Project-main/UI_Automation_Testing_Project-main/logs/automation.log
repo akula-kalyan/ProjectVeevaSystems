@@ -1,0 +1,1125 @@
+2026-04-02 16:07:25 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-02 16:07:25 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-02 16:07:31 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-02 16:07:43 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-02 16:07:43 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-02 16:07:43 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-02 16:07:46 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-02 16:07:48 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-02 16:07:48 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹699.00
+2026-04-02 16:07:48 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-02 16:07:51 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-02 16:07:51 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-02 16:07:55 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-02 16:07:59 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-02 16:07:59 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+
+
+2026-04-02 16:11:41 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-02 16:11:41 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-02 16:11:49 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+
+2026-04-02 16:12:12 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-02 16:12:12 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-02 16:12:15 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-02 16:12:18 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-02 16:12:18 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+
+2026-04-02 16:22:01 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-02 16:22:05 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-02 16:22:05 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-02 16:22:05 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-02 16:22:11 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-02 16:22:28 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-02 16:22:29 INFO  hooks.Hooks - Browser closed
+2026-04-02 16:22:29 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-02 16:22:30 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-02 16:22:32 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-02 16:22:32 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-02 16:22:32 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-02 16:22:36 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-02 16:22:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-02 16:22:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-02 16:22:39 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-02 16:22:40 INFO  hooks.Hooks - Browser closed
+2026-04-02 16:22:40 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-02 22:47:32 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-02 22:47:37 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-02 22:47:37 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-02 22:47:37 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-02 22:47:45 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-02 22:47:58 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-02 22:47:58 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-02 22:47:59 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-02 22:48:01 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-02 22:48:04 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-02 22:48:04 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-02 22:48:04 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-02 22:48:04 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-02 22:48:05 INFO  hooks.Hooks - Browser closed
+2026-04-02 22:48:05 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-02 22:48:05 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-02 22:48:08 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-02 22:48:08 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-02 22:48:08 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-02 22:48:12 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-02 22:48:15 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-02 22:48:15 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-02 22:48:16 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-02 22:48:16 INFO  hooks.Hooks - Browser closed
+2026-04-02 22:48:16 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:16:41 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 11:16:46 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:16:46 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 11:16:46 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 11:16:55 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 11:17:15 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-03 11:17:17 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:17:17 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:17:17 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 11:17:19 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:17:19 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 11:17:19 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 11:17:23 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 11:17:27 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 11:17:27 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 11:17:28 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 11:17:28 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:17:28 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:21:44 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 11:21:48 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:21:48 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 11:21:48 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 11:21:58 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 11:22:16 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-03 11:22:18 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:22:18 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:22:18 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 11:22:21 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:22:21 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 11:22:21 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 11:22:25 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 11:22:31 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 11:22:31 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 11:22:32 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 11:22:33 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:22:33 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:33:00 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 11:33:04 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:33:04 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 11:33:04 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 11:33:11 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 11:33:23 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 11:33:23 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 11:33:23 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 11:33:26 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 11:33:27 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 11:33:28 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 11:33:28 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 11:33:28 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 11:33:28 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:33:28 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:33:28 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 11:33:31 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:33:31 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 11:33:31 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 11:33:34 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 11:33:37 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 11:33:37 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 11:33:37 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 11:33:38 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:33:38 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:39:42 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 11:39:46 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:39:46 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 11:39:46 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 11:39:53 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 11:40:04 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 11:40:04 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 11:40:05 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 11:40:07 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 11:40:09 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 11:40:09 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 11:40:09 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 11:40:09 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 11:40:10 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:40:10 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 11:40:10 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 11:40:13 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 11:40:13 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 11:40:13 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 11:40:16 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 11:40:19 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 11:40:20 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 11:40:20 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 11:40:21 INFO  hooks.Hooks - Browser closed
+2026-04-03 11:40:21 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 12:04:14 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 12:04:17 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 12:04:17 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 12:04:17 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 12:04:25 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 12:04:37 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 12:04:37 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 12:04:37 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 12:04:40 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 12:04:42 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 12:04:42 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 12:04:42 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 12:04:42 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 12:04:43 INFO  hooks.Hooks - Browser closed
+2026-04-03 12:04:43 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 12:04:43 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 12:04:46 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 12:04:46 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 12:04:46 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 12:04:50 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 12:04:53 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 12:04:53 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 12:04:54 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 12:04:54 INFO  hooks.Hooks - Browser closed
+2026-04-03 12:04:54 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 14:37:48 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 14:37:53 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 14:37:53 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 14:37:53 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 14:38:03 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 14:38:15 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 14:38:15 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 14:38:15 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 14:38:25 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-03 14:38:27 INFO  hooks.Hooks - Browser closed
+2026-04-03 14:38:27 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 14:38:28 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 14:38:30 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 14:38:30 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 14:38:30 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 14:38:34 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 14:38:37 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 14:38:37 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 14:38:38 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 14:38:38 INFO  hooks.Hooks - Browser closed
+2026-04-03 14:38:38 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 15:16:18 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 15:16:26 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 15:16:26 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 15:16:26 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 15:16:35 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 15:16:50 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 15:16:50 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 15:16:51 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 15:17:01 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-03 15:17:04 INFO  hooks.Hooks - Browser closed
+2026-04-03 15:17:04 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 15:17:04 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 15:17:07 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 15:17:07 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 15:17:07 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 15:17:11 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 15:17:15 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 15:17:15 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 15:17:16 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 15:17:16 INFO  hooks.Hooks - Browser closed
+2026-04-03 15:17:16 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 15:21:14 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 15:22:35 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 15:22:35 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 15:22:35 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 15:23:18 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-03 15:23:18 ERROR hooks.Hooks - Error in teardown: 
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.178)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a66e2c1805be811b9b0ad65981d58123, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.178, chrome: {chromedriverVersion: 146.0.7680.165 (4b989da09e1..., userDataDir: C:\Users\KADITY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55410}, goog:processID: 14924, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55410/devtoo..., se:cdpVersion: 146.0.7680.178, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a66e2c1805be811b9b0ad65981d58123
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321) ~[selenium-remote-driver-4.21.0.jar:?]
+	at hooks.Hooks.tearDown(Hooks.java:41) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.17.0.jar:7.17.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.17.0.jar:7.17.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.17.0.jar:7.17.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) ~[cucumber-java-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.17.0.jar:7.17.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.17.0.jar:7.17.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.17.0.jar:7.17.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2026-04-03 15:23:21 INFO  hooks.Hooks - Browser closed
+2026-04-03 15:23:21 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 15:23:22 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 15:23:26 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 15:23:26 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 15:23:26 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 15:23:30 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 15:23:34 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 15:23:34 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 15:23:35 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 15:23:35 INFO  hooks.Hooks - Browser closed
+2026-04-03 15:23:35 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 15:24:25 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 15:24:30 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 15:24:30 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 15:24:30 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 15:24:38 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 15:24:54 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 15:24:54 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 15:24:55 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 15:24:58 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 15:25:00 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 15:25:01 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 15:25:01 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 15:25:01 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 15:25:02 INFO  hooks.Hooks - Browser closed
+2026-04-03 15:25:02 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 15:25:02 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 15:25:05 INFO  hooks.Hooks - Browser launched and URL opened
+2026-04-03 15:25:05 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 15:25:05 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 15:25:09 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 15:25:13 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 15:25:13 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 15:25:14 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 15:25:14 INFO  hooks.Hooks - Browser closed
+2026-04-03 15:25:14 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 16:32:57 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 16:32:57 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 16:33:05 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-03 16:33:05 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-03 16:33:05 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 16:33:05 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 16:33:05 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 16:33:05 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 16:33:10 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 16:33:15 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 16:33:15 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 16:33:16 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 16:33:16 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-03 16:33:16 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 16:33:20 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 16:33:33 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 16:33:33 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 16:33:34 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 16:33:37 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 16:33:39 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 16:33:39 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 16:33:39 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 16:33:39 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 16:33:40 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-03 16:33:40 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 21:17:13 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 21:17:13 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 21:17:23 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-03 21:17:23 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 21:17:23 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 21:17:26 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-03 21:17:26 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 21:17:26 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 21:17:31 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 21:17:37 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 21:17:37 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 21:17:39 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 21:17:40 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 21:17:40 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-03 21:17:40 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 21:17:55 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 21:17:55 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 21:17:56 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 21:18:00 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 21:18:02 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 21:18:03 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹249.00
+2026-04-03 21:18:03 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 21:18:03 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 21:18:04 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-03 21:18:04 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 21:56:23 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 21:56:23 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 21:56:27 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-03 21:56:27 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 21:56:27 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 21:56:29 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-03 21:56:29 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 21:56:29 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 21:56:33 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 21:56:39 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 21:56:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 21:56:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 21:56:40 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 21:56:42 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-03 21:56:42 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 21:56:53 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 21:56:53 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 21:56:53 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 21:56:56 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 21:56:58 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 21:56:59 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 21:56:59 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 21:56:59 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 21:56:59 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-03 21:56:59 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 22:01:50 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 22:01:50 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 22:01:55 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-03 22:01:55 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 22:01:56 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 22:01:56 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-03 22:01:56 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 22:01:56 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 22:02:03 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 22:02:08 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 22:02:09 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 22:02:11 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 22:02:14 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-03 22:02:14 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 22:02:15 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 22:02:31 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 22:02:31 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 22:02:32 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 22:02:34 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 22:02:36 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 22:02:37 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹499.00
+2026-04-03 22:02:37 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 22:02:37 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 22:02:38 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-03 22:02:38 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 22:42:35 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 22:42:35 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 22:42:44 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-03 22:42:44 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 22:42:44 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-03 22:42:44 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 22:42:44 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 22:42:44 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-03 22:42:51 INFO  hooks.Hooks - Screenshot captured
+2026-04-03 22:42:52 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-03 22:42:52 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 22:42:52 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 22:42:55 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 22:42:56 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 22:42:56 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 22:42:57 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-03 22:42:57 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 22:44:19 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-03 22:44:19 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-03 22:44:25 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-03 22:44:25 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-03 22:44:25 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-03 22:44:28 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-03 22:44:28 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-03 22:44:28 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-03 22:44:37 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-03 22:44:38 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-03 22:44:46 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-03 22:44:46 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-03 22:44:47 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-03 22:44:48 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-03 22:44:48 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-03 22:44:59 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-03 22:44:59 INFO  stepdefinitions.AmazonCartSteps - Validating product page
+2026-04-03 22:44:59 INFO  stepdefinitions.AmazonCartSteps - Adding product to cart
+2026-04-03 22:45:01 INFO  stepdefinitions.AmazonCartSteps - Opening cart page
+2026-04-03 22:45:03 INFO  stepdefinitions.AmazonCartSteps - Validating product added
+2026-04-03 22:45:04 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹249.00
+2026-04-03 22:45:04 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-03 22:45:04 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-03 22:45:04 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-03 22:45:04 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 11:59:32 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 11:59:32 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 11:59:43 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-04 11:59:43 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 11:59:44 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-04 11:59:44 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 11:59:44 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 11:59:44 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 11:59:51 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 11:59:59 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 11:59:59 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 12:00:00 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 12:00:01 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 12:00:02 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-04 12:00:02 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 12:00:14 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 12:00:24 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-04 12:00:25 INFO  hooks.Hooks - Screenshot captured
+2026-04-04 12:00:26 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-04 12:00:26 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 12:06:35 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 12:06:35 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 12:06:40 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-04 12:06:40 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 12:06:40 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-04 12:06:40 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 12:06:40 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 12:06:40 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 12:06:46 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 12:06:53 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 12:06:54 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 12:06:55 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 12:06:55 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 12:06:56 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-04 12:06:56 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 12:07:07 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 12:07:08 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-04 12:07:08 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-04 12:07:13 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 12:07:13 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-04 12:07:14 INFO  hooks.Hooks - Screenshot captured
+2026-04-04 12:07:15 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-04 12:07:15 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 15:16:40 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 15:16:57 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 15:16:57 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 15:16:57 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 15:17:10 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 15:17:26 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 15:17:27 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-04 15:17:27 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-04 15:17:33 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 15:17:33 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-04 15:17:34 INFO  hooks.Hooks - Screenshot captured
+2026-04-04 15:17:35 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 15:17:35 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 15:17:35 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 15:17:39 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 15:17:39 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 15:17:39 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 15:17:44 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 15:17:48 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 15:17:48 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 15:17:49 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 15:17:50 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 15:17:50 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 15:30:19 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 15:30:27 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 15:30:27 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 15:30:27 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 15:30:36 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 15:30:49 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 15:30:50 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-04 15:30:50 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-04 15:30:55 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 15:30:56 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-04 15:30:56 INFO  hooks.Hooks - Screenshot captured
+2026-04-04 15:30:57 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 15:30:57 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 15:30:57 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 15:31:00 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 15:31:00 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 15:31:00 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 15:31:06 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 15:31:12 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 15:31:12 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 15:31:13 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 15:31:14 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 15:31:14 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 15:39:05 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 15:39:16 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 15:39:16 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 15:39:16 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 15:39:26 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 15:39:39 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 15:39:39 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-04 15:39:39 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-04 15:39:44 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 15:39:44 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹249.00
+2026-04-04 15:39:44 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-04 15:39:44 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-04 15:39:45 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 15:39:45 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 15:39:45 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 15:39:47 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 15:39:47 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 15:39:47 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 15:39:53 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 15:39:58 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 15:39:59 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 15:39:59 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 15:40:00 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 15:40:00 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 16:11:04 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 16:11:14 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 16:11:14 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 16:11:14 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 16:11:22 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 16:11:36 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 16:11:36 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Wembley Hover Football for Kids| Electric Soccer Ball Floating Air| Engaging Indoor Game for Kids | Birthday Gift for Boys| Advanced & Rechargeable Hover Ball Game (Blue)
+2026-04-04 16:11:36 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 499
+2026-04-04 16:11:42 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 16:11:42 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-04 16:11:43 INFO  hooks.Hooks - Screenshot captured
+2026-04-04 16:11:44 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 16:11:44 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 16:11:44 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 16:11:47 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 16:11:47 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 16:11:47 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 16:11:51 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 16:11:55 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 16:11:55 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 16:11:56 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 16:11:57 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 16:11:57 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 16:14:28 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 16:14:33 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 16:14:33 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 16:14:33 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 16:14:42 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 16:14:53 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 16:14:54 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-04 16:14:54 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-04 16:14:59 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 16:14:59 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹249.00
+2026-04-04 16:14:59 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-04 16:14:59 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-04 16:15:00 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 16:15:00 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 16:15:00 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 16:15:03 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 16:15:03 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 16:15:03 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 16:15:07 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 16:15:11 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 16:15:11 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 16:15:12 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 16:15:12 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 16:15:12 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 16:15:49 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-04 16:15:53 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 16:15:53 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-04 16:15:53 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-04 16:16:04 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-04 16:16:16 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-04 16:16:16 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-04 16:16:16 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-04 16:16:21 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-04 16:16:21 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹249.00
+2026-04-04 16:16:21 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-04 16:16:21 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-04 16:16:22 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 16:16:22 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-04 16:16:22 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-04 16:16:25 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-04 16:16:25 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-04 16:16:25 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-04 16:16:32 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-04 16:16:38 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-04 16:16:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-04 16:16:40 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-04 16:16:41 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-04 16:16:41 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 12:16:35 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+2026-04-05 12:16:41 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 12:16:41 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 12:16:41 ERROR hooks.Hooks - TEST FAILED: Search product using JSON data
+2026-04-05 12:16:44 INFO  hooks.Hooks - Screenshot captured
+2026-04-05 12:16:44 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 12:16:44 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 16:02:45 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-05 16:02:57 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 16:02:57 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 16:02:57 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-05 16:03:04 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 16:03:08 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 16:03:08 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-05 16:03:09 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-05 16:03:10 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 16:03:10 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 16:08:08 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-05 16:08:12 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 16:08:13 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 16:08:13 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-05 16:08:18 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 16:08:21 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 16:08:21 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-05 16:08:22 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-05 16:08:23 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 16:08:23 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 16:09:21 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-05 16:09:26 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 16:09:26 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-05 16:09:26 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-05 16:09:34 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-05 16:09:45 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-05 16:09:45 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Kipsta Polyvinyl Chloride (PVC) Mini Home Football Size 1 For Kids (Pink)
+2026-04-05 16:09:45 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 289
+2026-04-05 16:09:49 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-05 16:09:50 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹289.00
+2026-04-05 16:09:50 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-05 16:09:50 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-05 16:09:50 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 16:09:50 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 16:09:51 INFO  hooks.Hooks - ========== TEST STARTED: Search for iPhone using search bar ==========
+2026-04-05 16:09:53 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 16:09:53 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 16:09:53 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-05 16:09:57 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 16:10:01 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 16:10:01 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-05 16:10:01 INFO  hooks.Hooks - TEST PASSED: Search for iPhone using search bar
+2026-04-05 16:10:02 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 16:10:02 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 18:03:53 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-05 18:04:02 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 18:04:02 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 18:04:02 INFO  stepdefinitions.AmazonSearchSteps - Product fetched from JSON: iphone
+2026-04-05 18:04:06 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 18:04:10 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 18:04:10 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iphone
+2026-04-05 18:04:11 INFO  hooks.Hooks - TEST PASSED: Search for product using search bar
+2026-04-05 18:04:12 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 18:04:12 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 18:05:05 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-05 18:05:09 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 18:05:09 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 18:05:09 ERROR hooks.Hooks - TEST FAILED: Search for product using search bar
+2026-04-05 18:05:13 INFO  hooks.Hooks - Screenshot captured
+2026-04-05 18:05:14 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 18:05:14 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 18:12:46 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-05 18:12:50 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 18:12:50 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 18:12:50 INFO  stepdefinitions.AmazonSearchSteps - Product fetched from JSON: iphone
+2026-04-05 18:12:54 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 18:12:59 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 18:13:00 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iphone
+2026-04-05 18:13:00 INFO  hooks.Hooks - TEST PASSED: Search for product using search bar
+2026-04-05 18:13:01 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 18:13:01 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 18:22:02 INFO  hooks.Hooks - ========== TEST STARTED: Search multiple products using JSON ==========
+2026-04-05 18:22:07 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 18:22:07 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 18:22:08 INFO  stepdefinitions.AmazonSearchSteps - Searching for product: iphone
+2026-04-05 18:22:18 INFO  stepdefinitions.AmazonSearchSteps - Searching for product: laptop
+2026-04-05 18:22:24 INFO  stepdefinitions.AmazonSearchSteps - Searching for product: samsung
+2026-04-05 18:22:32 INFO  stepdefinitions.AmazonSearchSteps - Searching for product: headphones
+2026-04-05 18:22:39 INFO  hooks.Hooks - TEST PASSED: Search multiple products using JSON
+2026-04-05 18:22:40 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 18:22:40 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 18:32:15 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-05 18:32:20 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 1
+2026-04-05 18:32:20 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 18:32:20 INFO  stepdefinitions.AmazonSearchSteps - Product fetched from JSON: iphone
+2026-04-05 18:32:23 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 18:32:27 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 18:32:28 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iphone
+2026-04-05 18:32:28 INFO  hooks.Hooks - TEST PASSED: Search for product using search bar
+2026-04-05 18:32:29 INFO  hooks.Hooks - Browser closed | Thread: 1
+2026-04-05 18:32:29 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 21:32:13 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-05 21:32:13 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-05 21:32:23 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-05 21:32:23 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-05 21:32:23 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-05 21:32:23 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-05 21:32:23 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-05 21:32:23 INFO  stepdefinitions.AmazonSearchSteps - Product fetched from JSON: iphone
+2026-04-05 21:32:26 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-05 21:32:31 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-05 21:32:32 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-05 21:32:33 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iphone
+2026-04-05 21:32:33 INFO  hooks.Hooks - TEST PASSED: Search for product using search bar
+2026-04-05 21:32:34 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-05 21:32:34 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-05 21:32:43 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-05 21:32:43 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Nivia Home Play Football for Kids, Soft & Lightweight Toy Ball, Safe for Indoor Play, Size - 3 (Orange), Pack of 1
+2026-04-05 21:32:43 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 249
+2026-04-05 21:32:47 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-05 21:32:47 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹249.00
+2026-04-05 21:32:47 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-05 21:32:47 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-05 21:32:48 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-05 21:32:48 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-06 10:42:25 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-06 10:42:25 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-06 10:42:38 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-06 10:42:38 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-06 10:42:38 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-06 10:42:40 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-06 10:42:40 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-06 10:42:40 ERROR hooks.Hooks - TEST FAILED: Search for product using search bar
+2026-04-06 10:42:47 INFO  hooks.Hooks - Screenshot captured
+2026-04-06 10:42:48 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-06 10:42:52 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-06 10:42:52 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-06 10:43:05 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-06 10:43:06 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Kidsmate Kids Football Goal Set with Ball & Pump | Sturdy Build Mini Football Net, Easy Setup Indoor & Outdoor Beginner Sports Practice | Perfect for Training & Fun Playtime - Green,Orange
+2026-04-06 10:43:06 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 1399
+2026-04-06 10:43:11 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-06 10:43:11 ERROR hooks.Hooks - TEST FAILED: Add product to cart from Toys category
+2026-04-06 10:43:12 INFO  hooks.Hooks - Screenshot captured
+2026-04-06 10:43:12 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-06 10:43:12 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-06 10:50:15 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-06 10:50:15 INFO  hooks.Hooks - ========== TEST STARTED: Search for product using search bar ==========
+2026-04-06 10:50:22 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-06 10:50:22 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-06 10:50:23 INFO  stepdefinitions.AmazonSearchSteps - Product fetched from JSON: iphone
+2026-04-06 10:50:24 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-06 10:50:24 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-06 10:50:24 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-06 10:50:30 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-06 10:50:33 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-06 10:50:36 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-06 10:50:36 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iphone
+2026-04-06 10:50:37 INFO  hooks.Hooks - TEST PASSED: Search for product using search bar
+2026-04-06 10:50:38 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-06 10:50:38 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-06 10:50:47 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-06 10:50:48 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Kidsmate Kids Football Goal Set with Ball & Pump | Sturdy Build Mini Football Net, Easy Setup Indoor & Outdoor Beginner Sports Practice | Perfect for Training & Fun Playtime - Green,Orange
+2026-04-06 10:50:48 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 1399
+2026-04-06 10:50:53 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-06 10:50:53 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹1,399.00
+2026-04-06 10:50:53 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-06 10:50:53 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-06 10:50:54 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-06 10:50:54 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-07 22:11:42 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+2026-04-07 22:11:42 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-07 22:11:52 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-07 22:11:53 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-07 22:11:53 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-07 22:11:53 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-07 22:11:53 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-07 22:11:55 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-07 22:12:01 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-07 22:12:03 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-07 22:12:08 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-07 22:12:08 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-07 22:12:09 INFO  hooks.Hooks - TEST PASSED: Search product using JSON data
+2026-04-07 22:12:10 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-07 22:12:10 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-07 22:12:16 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-07 22:12:16 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Kidsmate Kids Football Goal Set with Ball & Pump | Sturdy Build Mini Football Net, Easy Setup Indoor & Outdoor Beginner Sports Practice | Perfect for Training & Fun Playtime - Green,Orange
+2026-04-07 22:12:16 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 1399
+2026-04-07 22:12:21 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-07 22:12:22 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹1,399.00
+2026-04-07 22:12:22 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-07 22:12:22 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-07 22:12:23 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-07 22:12:23 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-08 16:17:35 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+2026-04-08 16:17:35 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-08 16:17:54 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-08 16:17:54 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-08 16:17:54 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-08 16:17:54 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-08 16:17:54 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-08 16:17:55 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-08 16:18:02 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-08 16:18:07 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-08 16:18:08 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-08 16:18:08 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-08 16:18:09 INFO  hooks.Hooks - TEST PASSED: Search product using JSON data
+2026-04-08 16:18:09 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-08 16:18:09 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-08 16:18:22 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-08 16:18:23 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Kidsmate Kids Football Goal Set with Ball & Pump | Sturdy Build Mini Football Net, Easy Setup Indoor & Outdoor Beginner Sports Practice | Perfect for Training & Fun Playtime - Green,Orange
+2026-04-08 16:18:23 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 1399
+2026-04-08 16:18:27 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-08 16:18:28 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹1,399.00
+2026-04-08 16:18:28 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-08 16:18:28 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-08 16:18:28 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-08 16:18:28 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:33:42 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+2026-04-12 15:33:42 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-12 15:33:48 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 31
+2026-04-12 15:33:48 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-12 15:33:48 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-12 15:33:49 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 32
+2026-04-12 15:33:49 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 15:33:49 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-12 15:33:51 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 15:33:54 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 15:33:54 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-12 15:33:55 INFO  hooks.Hooks - TEST PASSED: Search product using JSON data
+2026-04-12 15:33:55 INFO  hooks.Hooks - Browser closed | Thread: 32
+2026-04-12 15:33:55 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:33:56 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-12 15:34:06 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-12 15:34:07 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Lifelong Smart Electronic Rechargeable Hover Air Ball Football Toy, 2000mAh, USB Type-C, 3 Speed Modes, LED Light, Strong Body, Indoor Soccer, Safe, Ages Kids to Adults, Birthday Gift for Boys & Girls
+2026-04-12 15:34:07 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 399
+2026-04-12 15:34:10 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-12 15:34:11 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹399.00
+2026-04-12 15:34:11 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-12 15:34:11 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-12 15:34:11 INFO  hooks.Hooks - Browser closed | Thread: 31
+2026-04-12 15:34:11 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-11 12:20:31 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-11 12:20:31 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-11 12:20:53 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-11 12:20:53 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-11 12:20:53 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-11 12:20:53 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-11 12:20:53 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-11 12:20:53 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Samsung
+2026-04-11 12:20:58 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-11 12:20:58 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-11 12:21:02 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-11 12:21:03 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Samsung
+2026-04-11 12:21:03 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-11 12:21:03 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-11 12:21:04 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-11 12:21:04 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-11 12:21:04 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-11 12:21:04 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-11 12:21:04 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-11 12:21:05 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-11 12:21:05 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-11 12:21:08 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-11 12:21:08 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-11 12:21:08 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Laptop
+2026-04-11 12:21:12 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-11 12:21:17 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-11 12:21:17 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Laptop
+2026-04-11 12:21:18 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-11 12:21:18 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-11 12:21:18 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:48:06 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-12 15:48:06 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-12 15:48:18 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 15:48:18 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 15:48:18 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-12 15:48:18 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-12 15:48:18 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-12 15:48:18 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-12 15:48:22 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 15:48:25 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 15:48:25 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-12 15:48:26 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-12 15:48:26 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 15:48:26 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:48:27 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-12 15:48:32 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 15:48:32 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 15:48:32 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Samsung
+2026-04-12 15:48:36 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 15:48:36 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-12 15:48:40 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 15:48:40 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Samsung
+2026-04-12 15:48:41 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-12 15:48:42 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 15:48:42 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:48:42 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-12 15:48:44 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 15:48:44 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 15:48:44 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Laptop
+2026-04-12 15:48:50 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 15:48:51 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 15:48:57 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Laptop
+2026-04-12 15:48:58 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-12 15:48:58 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 15:48:58 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:48:58 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+2026-04-12 15:48:59 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-12 15:49:00 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 15:49:00 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 15:49:01 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Lifelong Smart Electronic Rechargeable Hover Air Ball Football Toy, 2000mAh, USB Type-C, 3 Speed Modes, LED Light, Strong Body, Indoor Soccer, Safe, Ages Kids to Adults, Birthday Gift for Boys & Girls
+2026-04-12 15:49:01 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 399
+2026-04-12 15:49:01 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-12 15:49:07 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 15:49:07 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-12 15:49:08 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹399.00
+2026-04-12 15:49:09 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-12 15:49:09 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-12 15:49:10 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-12 15:49:10 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 15:49:12 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 15:49:12 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-12 15:49:13 INFO  hooks.Hooks - TEST PASSED: Search product using JSON data
+2026-04-12 15:49:13 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 15:49:13 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 22:43:16 INFO  hooks.Hooks - ========== TEST STARTED: Add product to cart from Toys category ==========
+2026-04-12 22:43:16 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-12 22:43:24 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 33
+2026-04-12 22:43:24 INFO  stepdefinitions.AmazonCartSteps - Amazon homepage opened
+2026-04-12 22:43:24 INFO  stepdefinitions.AmazonCartSteps - Navigating to Toys category
+2026-04-12 22:43:27 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 22:43:28 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 22:43:28 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-12 22:43:34 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 22:43:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 22:43:39 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-12 22:43:40 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-12 22:43:41 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 22:43:41 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 22:43:43 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-12 22:43:43 INFO  stepdefinitions.AmazonCartSteps - Selecting product
+2026-04-12 22:43:48 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 22:43:48 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 22:43:48 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Samsung
+2026-04-12 22:43:54 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 22:43:59 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 22:44:00 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Samsung
+2026-04-12 22:44:00 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-12 22:44:03 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 22:44:03 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 22:44:03 INFO  hooks.Hooks - ========== TEST STARTED: Search product using multiple data ==========
+2026-04-12 22:44:05 INFO  stepdefinitions.AmazonCartSteps - Switching to product tab
+2026-04-12 22:44:05 INFO  stepdefinitions.AmazonCartSteps - Selected Product: Lifelong Smart Electronic Rechargeable Hover Air Ball Football Toy, 2000mAh, USB Type-C, 3 Speed Modes, LED Light, Strong Body, Indoor Soccer, Safe, Ages Kids to Adults, Birthday Gift for Boys & Girls
+2026-04-12 22:44:05 INFO  stepdefinitions.AmazonCartSteps - Selected Price: 399
+2026-04-12 22:44:06 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 22:44:06 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 22:44:06 INFO  stepdefinitions.AmazonSearchSteps - Entering product: Laptop
+2026-04-12 22:44:13 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 22:44:15 INFO  stepdefinitions.AmazonCartSteps - Validating correct product and price
+2026-04-12 22:44:15 INFO  stepdefinitions.AmazonCartSteps - Subtotal:  ₹399.00
+2026-04-12 22:44:15 INFO  stepdefinitions.AmazonCartSteps - Cart count: 1
+2026-04-12 22:44:15 INFO  hooks.Hooks - TEST PASSED: Add product to cart from Toys category
+2026-04-12 22:44:20 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 22:44:20 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: Laptop
+2026-04-12 22:44:21 INFO  hooks.Hooks - TEST PASSED: Search product using multiple data
+2026-04-12 22:44:22 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 22:44:22 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 22:44:22 INFO  hooks.Hooks - ========== TEST STARTED: Search product using JSON data ==========
+2026-04-12 22:44:28 INFO  hooks.Hooks - Browser launched and URL opened | Thread: 34
+2026-04-12 22:44:28 INFO  stepdefinitions.AmazonSearchSteps - Amazon homepage opened
+2026-04-12 22:44:30 INFO  stepdefinitions.AmazonSearchSteps - Entering product: iPhone
+2026-04-12 22:44:33 INFO  stepdefinitions.AmazonSearchSteps - Clicking first suggestion
+2026-04-12 22:44:33 INFO  hooks.Hooks - Browser closed | Thread: 33
+2026-04-12 22:44:33 INFO  hooks.Hooks - ========== TEST ENDED ==========
+
+2026-04-12 22:44:38 INFO  stepdefinitions.AmazonSearchSteps - Validating results page
+2026-04-12 22:44:38 INFO  stepdefinitions.AmazonSearchSteps - Validating results for: iPhone
+2026-04-12 22:44:41 INFO  hooks.Hooks - TEST PASSED: Search product using JSON data
+2026-04-12 22:44:43 INFO  hooks.Hooks - Browser closed | Thread: 34
+2026-04-12 22:44:43 INFO  hooks.Hooks - ========== TEST ENDED ==========
+

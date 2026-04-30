@@ -1,0 +1,12 @@
+pages\ProductPage.class
+pages\CartPage.class
+utils\JsonReader.class
+utils\ConfigReader.class
+pages\AmazonSearchResultsPage.class
+pages\AmazonHomePage.class
+pages\CategoryPage.class
+utils\WaitUtil.class
+pages\MenuPage.class
+utils\ScreenshotUtil.class
+utils\ExtentManager.class
+factory\DriverFactory.class
